@@ -1,6 +1,6 @@
 {
   "name": "touchberrypi",
-  "version": "0.1.0-b",
+  "version": "0.1.0-c",
   "description": "",
   "main": "src/touchberrypi.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "table": "^5.4.6"
   },
 	"bin": {
-		"touchberrypi": "./dist/src/touchberrypi.js"
+		"touchberrypi": "./dist/touchberrypi.js"
 	}
 }

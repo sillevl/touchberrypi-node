@@ -6,9 +6,9 @@ const deviceList: { device: string, address: number, name: string}[] = [
 	{ device: 'QT1070', address: 0x1b, name: 'Capacitive touch sensor' },
 	{ device: 'TCL59116', address: 0x60, name: 'LED driver' },
 	{ device: 'HTS221', address: 0x5f, name: 'Temperature sensor' },
-	{ device: 'LSDM6DSM', address: 0x6a, name: 'Accelero / Gyroscope' },
-	{ device: 'LSM303AGR', address: 0x19, name: 'Accelerometer' },
-	{ device: 'LSM3031GR', address: 0x1e, name: 'Magnetometer' },
+	{ device: 'LSM6DSM', address: 0x6a, name: 'Accelero / Gyroscope' },
+	{ device: 'LSM303', address: 0x19, name: 'Accelerometer' },
+	{ device: 'LSM303', address: 0x1e, name: 'Magnetometer' },
 	{ device: '24AA64', address: 0x50, name: 'EEPROM' }
 ];
 
