@@ -1,6 +1,6 @@
 {
   "name": "touchberrypi",
-  "version": "0.1.0-c",
+  "version": "0.1.0-f",
   "description": "",
   "main": "src/touchberrypi.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "start": "npm run check",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+	"files": ["dist"],
   "keywords": [],
   "author": "Sille Van Landschoot <info@sillevl.be>",
   "license": "MIT",
